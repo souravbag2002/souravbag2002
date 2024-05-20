@@ -1,3 +1,4 @@
+![logo](https://github.com/souravbag2002/souravbag2002/blob/main/linkedinimmage.jpeg)
 <h1 align="center">Hi 👋, I'm Sourav Bag</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
